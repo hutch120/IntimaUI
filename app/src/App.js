@@ -6,7 +6,7 @@ import logo from './logo.svg'
 import './App.css'
 import _ from 'lodash'
 
-const intimaDataURL = 'http://localhost:8080/data.json'
+const intimaDataURL = 'https://api.intima.io/data.json'
 
 class App extends Component {
   constructor (props) {
